@@ -1,6 +1,6 @@
 # コンタクト
 
-<form name="contact" method="POST" netlify>
+<form name="contact" action="thanks.html" method="POST" netlify>
   <p>
     <label>お名前: <input type="text" name="name" /></label>
   </p>
